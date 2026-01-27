@@ -1,111 +1,65 @@
-👋 Hi, I’m Suryaprakash
+## 👋 Hi there, I'm Suryaprakash
 
-Full-Stack Developer | Backend & DevOps Focus
+**Full-Stack Developer | Backend & DevOps Focus**
 
-I’m a full-stack developer with strong backend expertise and hands-on DevOps experience, focused on building scalable, reliable, and production-ready systems. I enjoy working across the stack — from clean REST APIs to automated CI/CD pipelines and cloud-native deployments.
+I’m a full-stack developer with strong backend expertise and hands-on DevOps experience.  
+I build **scalable, reliable, and production-ready systems**, focusing on clean architecture,
+automation, and performance.
 
-🚀 What I Do
+---
 
-Build backend services using Django & Django REST Framework
+## 🚀 About Me
+- Backend development with **Django & Django REST Framework**
+- Full-stack applications using **React & Next.js**
+- CI/CD automation with **Docker, Jenkins, Kubernetes**
+- Experience with **microservices, system design, and REST APIs**
+- Passionate about clean code and production engineering
 
-Develop full-stack applications with React & Next.js
+---
 
-Design clean architectures and scalable REST APIs
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/contact-suryaprakash">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:suryatheking5784@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Suryaprkash03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-Automate deployments using Docker, Jenkins, and Kubernetes
+---
 
-Work with microservices, system design, and performance optimization
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-Backend
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
-Python · Django · Django REST Framework
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Node.js · Express.js
+### Databases
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Frontend
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-React.js · Next.js · JavaScript
+---
 
-HTML · CSS · Tailwind CSS
-
-Databases
-
-PostgreSQL · MySQL · MongoDB
-
-DevOps & Cloud
-
-Docker · Kubernetes
-
-Jenkins CI/CD · GitHub Actions
-
-Nginx · Linux
-
-Tools & Concepts
-
-Git · REST APIs · Microservices
-
-System Design · Networking · Automation
-
-💼 Experience
-
-Full-Stack Developer — Zenquix Technology Pvt. Ltd.
-Aug 2024 – Present | Bengaluru
-(Training: Mar 2024 – Jul 2024)
-
-Developing and deploying scalable web applications
-
-Building backend APIs and frontend integrations
-
-Implementing CI/CD pipelines and containerized deployments
-
-Working on production-ready, automation-focused systems
-
-📌 Featured Projects
-🔹 Network Automation Tool
-
-Full-stack + DevOps platform for network automation
-
-Backend services using Django & Node.js
-
-Frontend with React / Next.js
-
-Automated BGP, ACL, route-maps, config validation
-
-CI/CD with Jenkins, Docker, and Kubernetes
-
-🔹 Hospital Management System
-
-Secure REST APIs with Django & DRF
-
-RBAC, authentication, and data validation
-
-Optimized backend for scalability
-
-🔹 Scrap Management System
-
-Full-stack MERN application
-
-Vendor, pricing, and inventory management
-
-Responsive dashboards and analytics
-
-🔹 Human Resource Management System (HRMS)
-
-Attendance, payroll, and employee modules
-
-Backend logic + responsive frontend
-
-Focused on automation and scalability
-
-📫 Connect With Me
-
-💼 LinkedIn: linkedin.com/in/contact-suryaprakash
-
-💻 GitHub: github.com/Suryaprkash03
-
-📧 Email: suryatheking5784@gmail.com
-
-📈 Philosophy
-
-I believe in clean architecture, automation, and engineering discipline — building systems that scale, last, and are easy to maintain.
+## 📌 Philosophy
+> **Build clean systems. Automate everything. Ship reliable software.**
