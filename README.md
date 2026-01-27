@@ -1,24 +1,32 @@
 ## 👋 Hi there, I'm Suryaprakash
 
-**Full-Stack Developer | Backend & DevOps Focus**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Backend+%26+DevOps+Engineer;Building+Scalable+Production+Systems" />
+</p>
 
-I’m a full-stack developer with strong backend expertise and hands-on DevOps experience.  
-I build **scalable, reliable, and production-ready systems**, focusing on clean architecture,
-automation, and performance.
+<p align="center">
+  <strong>Full-Stack Developer</strong> · Backend & DevOps Focus
+</p>
+
+<p align="center">
+  I build <strong>scalable, reliable, and production-ready systems</strong><br/>
+  with a strong focus on <strong>backend engineering, automation, and clean architecture</strong>.
+</p>
 
 ---
 
 ## 🚀 About Me
-- Backend development with **Django & Django REST Framework**
-- Full-stack applications using **React & Next.js**
-- CI/CD automation with **Docker, Jenkins, Kubernetes**
-- Experience with **microservices, system design, and REST APIs**
-- Passionate about clean code and production engineering
+
+🔹 Backend-first engineer working with **Django & Django REST Framework**  
+🔹 Build **end-to-end full-stack applications** using **React & Next.js**  
+🔹 Design and automate **CI/CD pipelines** with **Docker, Jenkins & Kubernetes**  
+🔹 Experience with **microservices, REST APIs, and system design**  
+🔹 Strong belief in **clean code, automation, and engineering discipline**
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/contact-suryaprakash">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -28,6 +36,19 @@ automation, and performance.
   <a href="https://github.com/Suryaprkash03">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suryaprkash03&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaprkash03&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaprkash03&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
