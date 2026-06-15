@@ -40,6 +40,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suryaprkash03/Suryaprkash03/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
