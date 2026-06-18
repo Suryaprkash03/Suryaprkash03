@@ -1,81 +1,140 @@
-## 👋 Hi there, I'm Suryaprakash
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Backend+%26+DevOps+Engineer;Building+Scalable+Production+Systems" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,30:161B22,70:238636,100:2EA043&text=Suryaprakash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Python%20Developer%20|%20DevOps&descAlignY=58"/>
 
-<p align="center">
-  <strong>Full-Stack Developer</strong> · Backend & DevOps Focus
-</p>
+</div>
 
-<p align="center">
-  I build <strong>scalable, reliable, and production-ready systems</strong><br/>
-  with a strong focus on <strong>backend engineering, automation, and clean architecture</strong>.
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Engineer;Python+%7C+Django+%7C+Django+REST+Framework;Building+Scalable+Production+Systems;REST+API+Developer;DevOps+%7C+Docker+%7C+Kubernetes;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+</div>
+
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🔹 Backend-first engineer working with **Django & Django REST Framework**  
-🔹 Build **end-to-end full-stack applications** using **React & Next.js**  
-🔹 Design and automate **CI/CD pipelines** with **Docker, Jenkins & Kubernetes**  
-🔹 Experience with **microservices, REST APIs, and system design**  
-🔹 Strong belief in **clean code, automation, and engineering discipline**
+🚀 Backend Software Engineer with experience building scalable applications using Python, Django, Django REST Framework, PostgreSQL, Docker, Kubernetes, and CI/CD pipelines.
+
+- 🔭 Software Engineer @ Zenquix Technology
+- 🌱 Learning Distributed Systems & System Design
+- ⚡ Passionate about Backend Engineering
+- 🐳 DevOps & Cloud Native Enthusiast
+- 📚 Always Learning New Technologies
+
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="left">⚡ Tech Arsenal</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/contact-suryaprakash">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:suryatheking5784@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Suryaprkash03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="#">
+    <img width="700" src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,django,react,postgresql,mongodb,mysql,docker,kubernetes,jenkins,linux,git,github,redis,nginx&theme=dark"/>
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="left">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suryaprkash03/Suryaprkash03/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryaprkash03&bg_color=0d1117&color=60a5fa&line=8b5cf6&point=3b82f6&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+<h2 align="left">⚡ Engineering Focus</h2>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+> 🚀 **Backend Engineering** — Building scalable, secure, and production-ready services.
 
-### Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+> 🏗️ **System Design** — Designing maintainable architectures with clean engineering principles.
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> ⚡ **API Development** — Creating fast, reliable, and well-documented RESTful APIs.
+
+> ☁️ **Cloud & DevOps** — Deploying cloud-native applications using AWS, Docker, and CI/CD.
+
+> 🤖 **AI Journey** — Transitioning from Backend Engineering to AI Engineering through LLMs and intelligent systems.
+
+---
+<h2 align="left">📊 GitHub Analytics</h2>
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Suryaprkash03&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaprkash03&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📌 Philosophy
-> **Build clean systems. Automate everything. Ship reliable software.**
+<h2 align="left">🚀 Career Snapshot</h2>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Backend%20Software%20Engineer-0D1117?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/1%2B%20Year%20Experience-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API%20Developer-0D1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL%20Optimization-0D1117?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker%20%26%20Kubernetes-0D1117?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System%20Design%20Learner-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+
+</p>
+
+---
+
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:aws.dev.surya@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="52"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/contact-suryaprakash">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Suryaprkash03">
+  <img src="https://skillicons.dev/icons?i=github" width="52"/>
+</a>
+<br>
+<br>
+Building Scalable Backend Systems • Cloud Native Applications • AI Engineering
+<br>
+<sub>
+Open to collaboration, engineering discussions, and exciting opportunities.
+</sub>
+
+</div>
+
+---
+
+## 💭 Philosophy
+
+> "Write clean code. Design scalable systems. Keep learning. Build solutions that make an impact."
+
+I believe great software is built through simplicity, consistency, and continuous improvement. Every project is an opportunity to learn, optimize, and solve real-world problems.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,30:161B22,70:238636,100:2EA043"/>
+
+<br>
+
+**Thanks for visiting my profile**
+
+<sub>Backend Engineer • Python Developer • Future AI Engineer</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,30:161B22,70:238636,100:2EA043"/>
+
+</div>
